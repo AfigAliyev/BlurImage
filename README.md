@@ -2,6 +2,8 @@
 
 # BlurImage
 
+[![](https://jitpack.io/v/MaximillianLeonov/BlurImage.svg)](https://jitpack.io/#MaximillianLeonov/BlurImage)
+
 BlurImage is a Jetpack Compose library for displaying blurry images.
 
 The library under the hood uses [Coil](https://github.com/coil-kt/coil) to load images
