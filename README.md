@@ -47,13 +47,13 @@ dependencyResolutionManagement {
 **Groovy:**
 
 ```gradle
-implementation "com.github.maximillianleonov:blurimage:1.0.0"
+implementation "com.github.maximillianleonov:blurimage:v1.0.0"
 ```
 
 **Kotlin DSL:**
 
 ```kotlin
-implementation("com.github.maximillianleonov:blurimage:1.0.0")
+implementation("com.github.maximillianleonov:blurimage:v1.0.0")
 ```
 
 # Getting Started
