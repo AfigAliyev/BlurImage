@@ -3,7 +3,7 @@ android-compileSdk = "33"
 android-minSdk = "21"
 android-targetSdk = "33"
 
-kotlin = "1.7.20"
+kotlin = "1.8.10"
 android-gradle-plugin = "7.4.0"
 
 androidx-compose-bom = "2023.03.00"
